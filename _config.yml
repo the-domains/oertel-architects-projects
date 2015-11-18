@@ -1,0 +1,23 @@
+name: OERTEL ARCHITECTS PROJECTS
+favicon: null
+layout_spectrum: 0.10063414694741368
+typography_spectrum: 0.790816496592015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5333800909575075
+  lightness: 0.1021088040433824
+  saturation: 0.34090730524621904
+  rhythmicContrast: 0.42452639271505177
+purpose: []
